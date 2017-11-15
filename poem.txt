@@ -1,4 +1,4 @@
-The Rainbows and the Unicorn
+The Rainbows and the Unicorn and the Pony
 
 Red
 Orange 
@@ -8,5 +8,6 @@ Blue
 Indiigo
 Violet
 Unicorn
-These are the colors of t he rainbow,
+These are the colors of the rainbow,
 and the Unicorn.
+Pony
