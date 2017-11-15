@@ -1,3 +1,5 @@
+The Rainbows and the Unicorn
+
 Red
 Orange 
 Yellow
@@ -5,5 +7,6 @@ Green
 Blue
 Indiigo
 Violet
-These are the colors of t he rainbow
-I think I'm doing this correct
+Unicorn
+These are the colors of t he rainbow,
+and the Unicorn.
